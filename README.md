@@ -1,4 +1,4 @@
-# First-Project-using-PHP-MySQL
+# Registration-Form-using-PHP-MySQL
 <h3>User Interface</h3>
 <h4>1st View</h4>
 
